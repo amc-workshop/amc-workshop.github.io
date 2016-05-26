@@ -12,6 +12,7 @@ dependencies:
 
 test:
   override:
+    - cd site-generator && stack setup
     - cd site-generator && stack build
   post:
     - cd site-generator && stack exec site build
