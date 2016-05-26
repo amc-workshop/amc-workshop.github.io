@@ -1,11 +1,11 @@
 machine:
   ghc:
-    version: 7.10.1
+    version: 7.8.4
 dependencies:
   override:
     - cabal update
     - cabal sandbox init
-    - cabal install hslua-0.4.1
+    - cabal install hslua-0.4.
     - cabal install regex-tdfa-1.2.1
     - cabal install --only-dependencies -j
     - cabal configure
