@@ -42,9 +42,14 @@ Want to fix or add something?
    on the Github website and commit your changes.
 3. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/).
    3a. Click "New pull request".
-   3b. Look at the changes you've made.
-   3c. Write a description of your changes and why you made them.
-   3d. Click "Create pull request".
+   3b. Look at the changes you've made
+   -- the "diff". The left side is the original. The right side is
+   your version. The diff only shows the parts that have
+   changes. Things you've added are in green, things you've deleted
+   are red.
+   3c. Click the green "Create pull request" button.
+   3d. Write a description of your changes and why you made them.
+   3e. Click "Create pull request".
 
 We will review your pull request and, unless your changes are wantonly
 destructive, merge it into the project! We may need ask questions or
