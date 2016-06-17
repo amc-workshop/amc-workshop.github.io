@@ -7,6 +7,7 @@
 
 Follow Me on [Twitter](https://twitter.com/mashuskamateo)
 
+Is there anything else?
 
 ### Five random things
 
@@ -14,4 +15,4 @@ Follow Me on [Twitter](https://twitter.com/mashuskamateo)
 2. Weekly I eat my weight in potato chips
 3. Teaching myself HTML5, CSS, JS and will later move to a programming language -TBD-
 4. I do not know how to drive
-5. I was only able to create this file because my cats are not AMC to sit on my keyboard
+5. I was only able to create this file because my cats are not [AMC] (https://www.alliedmedia.org/amc) to sit on my keyboard
