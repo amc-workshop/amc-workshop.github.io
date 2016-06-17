@@ -4,7 +4,7 @@
 
 #AMCMedia Conference
 
-##Open-Source Tech and Community Colloaboration
+##Open-Source Tech and Community Collaboration
 
 
 
