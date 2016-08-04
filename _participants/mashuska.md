@@ -16,5 +16,3 @@ Is there anything else?
 3. Teaching myself HTML5, CSS, JS and will later move to a programming language -TBD-
 4. I do not know how to drive
 5. I was only able to create this file because my cats are not [AMC](https://www.alliedmedia.org/amc) to sit on my keyboard
-
-just adding this line to see if it forces Jekyll to recompile
